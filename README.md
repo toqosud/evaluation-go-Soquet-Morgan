@@ -1,2 +1,10 @@
-# evaluation-go-Soquet-Morgan
-Evaluation Go
+# Evaluation Go 
+
+Soquet 
+Morgan
+
+Exo 1:
+
+
+
+Exo 2:
